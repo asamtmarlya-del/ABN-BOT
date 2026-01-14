@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abn-org/remote-control-bot"
+    "url": "https://github.com/asamtmarlya-del/ABN-BOT.git"
   },
-  "homepage": "https://github.com/abn-org/remote-control-bot#readme",
+  "homepage": "https://github.com/asamtmarlya-del/ABN-BOT.git#readme",
   "bugs": {
-    "url": "https://github.com/abn-org/remote-control-bot/issues"
+    "url": "https://github.com/asamtmarlya-del/ABN-BOT.git/issues"
   },
   "engines": {
     "node": ">=14.0.0",
