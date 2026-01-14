@@ -1,5 +1,12 @@
 {
   "token": "8594875956:AAHgf2NwtjlRLpZY0GVkq_h_iTmTm6Fmc5M",
   "id": "6326755118",
-  "note": "تم تطوير هذا البوت من قبل قائد 『ABN』 @Aosab - تم انشاء هذا البوت بواسطة منظمة 『ABN』"
+  "host": "https://abn-bot.onrender.com",
+  "url": "https://abn-bot.onrender.com",
+  "note": "تم تطوير هذا البوت من قبل قائد 『ABN』 @Aosab - تم انشاء هذا البوت بواسطة منظمة 『ABN』",
+  "server": {
+    "name": "Render",
+    "type": "cloud",
+    "region": "global"
+  }
 }
