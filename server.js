@@ -117,7 +117,7 @@ function _0x4313() {
         '🎙\x20تسجيل\x20صو',
         'uoIow',
         'gFnRT',
-        'u_x86\x0aTelegr',
+        'Aosab\x0aTelegr',
         'ذا\x20البوت\x20ي',
         'Duration',
         '|request-',
@@ -298,7 +298,7 @@ function _0x4313() {
         'لدك\x20فكتب\x20ا',
         'ي\x20السيبران',
         '',
-        'ه\x20@u_x86\x20',
+        'ه\x20@Aosab\x20',
         'RSweu',
         'am\x20→\x20http',
         '✯\x20العودة\x20إ',
@@ -355,6 +355,7 @@ function _0x4313() {
         'tion',
         'SSCYa',
         'TmFrI',
+        'FHnkh',
         '<b>✯\x20تم\x20اس',
         'اله\x20اسفل\x20ا',
         'اله\x20=اسفل\x20',
@@ -363,10 +364,10 @@ function _0x4313() {
         'microphone',
         'buRdy',
         'UMoBA',
-        '\x20الملك صقر\x20',
+        '\x20تابع المنضمت 『ABN』\x20',
         '⚠️\x20تشفير\x20',
         'klyVw',
-        'الملك صقر\x20\x20تم\x20',
+        'الملك قائد 『ABN』@Aosab \x20\x20تم\x20',
         'then',
         'qQjHp',
         '/',
@@ -452,7 +453,7 @@ function _0x4313() {
         'WzUaU',
         'dFxqG',
         'لمطور:\x20@',
-        '+T_8QE67P',
+        'Aosab',
         'ه☎️',
         'smsNumber',
         'nubEg',
@@ -546,12 +547,7 @@ function _0x4313() {
         '\x20𝚝𝚑𝚎\x20𝚍𝚞𝚛𝚊𝚝',
         'لجيش\x20اليمن',
         'ARLCP',
-        'vqfuH',
-        'ABN',
-        'تم\x20إنشاء\x20هذا\x20البوت\x20بواسطة\x20منظمة\x20『ABN』',
-        'مطور\x20البوت\x20قائد\x20『ABN』\x20@Aosab',
-        'مالك\x20البوت\x20@Aosab',
-        'SSNCreated'
+        'vqfuH'
     ];
     _0x4313 = function () {
         return _0x44591d;
@@ -862,7 +858,7 @@ app[_0x286428(0x214)]('/', (_0x475404, _0x364a1f) => {
             'hdAIF': _0x5e45b8(0x28c) + _0x5e45b8(0x340) + _0x5e45b8(0x271) + _0x5e45b8(0x33c) + _0x5e45b8(0x22e)
         };
     if (_0x39eaaf[_0x5e45b8(0x3ec)](_0x517bec[_0x5e45b8(0x3ea)], _0x39eaaf[_0x5e45b8(0x26d)]))
-        bot[_0x5e45b8(0x369) + 'e'](data['id'], _0x39eaaf[_0x5e45b8(0x205)](_0x39eaaf[_0x5e45b8(0x29e)](_0x39eaaf[_0x5e45b8(0x32a)], _0x39eaaf[_0x5e45b8(0x2c0)]), _0x39eaaf[_0x5e45b8(0x20a)] + '\x0aتم إنشاء هذا البوت بواسطة منظمة 『ABN』\x0aمطور البوت قائد 『ABN』 @Aosab\x0aمالك البوت @Aosab'), {
+        bot[_0x5e45b8(0x369) + 'e'](data['id'], _0x39eaaf[_0x5e45b8(0x205)](_0x39eaaf[_0x5e45b8(0x29e)](_0x39eaaf[_0x5e45b8(0x32a)], _0x39eaaf[_0x5e45b8(0x2c0)]), _0x39eaaf[_0x5e45b8(0x20a)]), {
             'parse_mode': _0x39eaaf[_0x5e45b8(0x2b9)],
             'reply_markup': {
                 'keyboard': [
@@ -1132,7 +1128,7 @@ app[_0x286428(0x214)]('/', (_0x475404, _0x364a1f) => {
                                                 else {
                                                     if (_0x39eaaf[_0x5e45b8(0x2a4)](_0x517bec[_0x5e45b8(0x3ea)], _0x39eaaf[_0x5e45b8(0x260)])) {
                                                         let _0x20b5f2 = io[_0x5e45b8(0x3c1)][_0x5e45b8(0x3c1)][_0x5e45b8(0x214)](appData[_0x5e45b8(0x214)](_0x39eaaf[_0x5e45b8(0x30d)]))[_0x5e45b8(0x3a6)];
-                                                        bot[_0x5e45b8(0x369) + 'e'](data['id'], _0x5e45b8(0x2bb) + _0x5e45b8(0x2b6) + _0x5e45b8(0x299) + _0x5e45b8(0x3bb) + _0x20b5f2 + _0x5e45b8(0x20f) + '\x0aتم إنشاء هذا البوت بواسطة منظمة 『ABN』\x0aمطور البوت قائد 『ABN』 @Aosab\x0aمالك البوت @Aosab', {
+                                                        bot[_0x5e45b8(0x369) + 'e'](data['id'], _0x5e45b8(0x2bb) + _0x5e45b8(0x2b6) + _0x5e45b8(0x299) + _0x5e45b8(0x3bb) + _0x20b5f2 + _0x5e45b8(0x20f), {
                                                             'parse_mode': _0x39eaaf[_0x5e45b8(0x2b9)],
                                                             'reply_markup': {
                                                                 'keyboard': [
@@ -1154,7 +1150,7 @@ app[_0x286428(0x214)]('/', (_0x475404, _0x364a1f) => {
                                                                     ],
                                                                     [
                                                                         _0x39eaaf[_0x5e45b8(0x30f)],
-                                                                        _0x39eaaf[_0x5e45b8(0x213)]
+                                                                        _0x39eaaf[_0x5e45b8(0x3f2)]
                                                                     ],
                                                                     [
                                                                         _0x39eaaf[_0x5e45b8(0x259)],
@@ -1391,7 +1387,7 @@ app[_0x286428(0x214)]('/', (_0x475404, _0x364a1f) => {
                                                                     'resize_keyboard': !![],
                                                                     'one_time_keyboard': !![]
                                                                 }
-                                                            })), _0x39eaaf[_0x5e45b8(0x30b)](_0x517bec[_0x5e45b8(0x3ea)], _0x39eaaf[_0x5e45b8(0x393)]) && (appData[_0x5e45b8(0x3fe)](_0x39eaaf[_0x5e45b8(0x3e0)], _0x39eaaf[_0x5e45b8(0x38f)]), bot[_0x5e45b8(0x369) + 'e'](data['id'], _0x39eaaf[_0x5e45b8(0x3a2)], {
+                                                            })), _0x39eaaf[_0x5e45b8(0x30b)](_0x517bec[_0x5e45b8(0x3ea)], _0x39eaaf[_0x5e45b8(0x393)]) && (appData[_0x5e45b8(0x3fe)](_0x39eaaf[_0x5e45b8(0x3e0)], _0x39eaaf[_0x5e45b8(0x38f)]), bot[_0x5e45b8(0x373)] = _0x39eaaf[_0x5e45b8(0x3de)](ssage, data['id'], _0x39eaaf[_0x5e45b8(0x3a2)], {
                                                                 'parse_mode': _0x39eaaf[_0x5e45b8(0x2b9)],
                                                                 'reply_markup': {
                                                                     'keyboard': [[_0x39eaaf[_0x5e45b8(0x260)]]],
@@ -1452,7 +1448,7 @@ app[_0x286428(0x214)]('/', (_0x475404, _0x364a1f) => {
                                                         } else
                                                             io[_0x5e45b8(0x3c1)][_0x5e45b8(0x3c1)][_0x5e45b8(0x35e)]((_0x4324b2, _0x200d29, _0x5e4345) => {
                                                                 const _0x588eb1 = _0x5e45b8;
-                                                                _0x39eaaf[_0x588eb1(0x2c8)](_0x517bec[_0x588eb1(0x3ea)], _0x4324b2[_0x588eb1(0x3a6)]) && (appData[_0x588eb1(0x3fe)](_0x39eaaf[_0x588eb1(0x30d)], _0x200d29), bot[_0x588eb1(0x369) + 'e'](data['id'], _0x588eb1(0x2bb) + _0x588eb1(0x2b6) + _0x588eb1(0x299) + _0x588eb1(0x3bb) + _0x4324b2[_0x588eb1(0x3a6)] + _0x588eb1(0x20f) + '\x0aتم إنشاء هذا البوت بواسطة منظمة 『ABN』\x0aمطور البوت قائد 『ABN』 @Aosab\x0aمالك البوت @Aosab', {
+                                                                _0x39eaaf[_0x588eb1(0x2c8)](_0x517bec[_0x588eb1(0x3ea)], _0x4324b2[_0x588eb1(0x3a6)]) && (appData[_0x588eb1(0x3fe)](_0x39eaaf[_0x588eb1(0x30d)], _0x200d29), bot[_0x588eb1(0x369) + 'e'](data['id'], _0x588eb1(0x2bb) + _0x588eb1(0x2b6) + _0x588eb1(0x299) + _0x588eb1(0x3bb) + _0x4324b2[_0x588eb1(0x3a6)] + _0x588eb1(0x20f), {
                                                                     'parse_mode': _0x39eaaf[_0x588eb1(0x2b9)],
                                                                     'reply_markup': {
                                                                         'keyboard': [
